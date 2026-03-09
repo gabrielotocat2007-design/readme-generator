@@ -2,11 +2,11 @@
 
 <p align="left">Y soy un programador, del IES Torre del rey</p>
 
-<h2 align="left">Sobre mi</h2>
+<h2 align="left">Sobre mi:</h2>
 
-<p align="left">✨Creando bugs desde 2025<br>📚 Actualmente estoy aprendiendo java<br>🎯 Metas: ME gustaria ser un gran programador</p>
+<p align="left">✨Creando bugs desde 2025<br>📚 Actualmente estoy aprendiendo java<br>🎯 Metas: Me gustaria ser un gran programador</p>
 
-<h2 align="left">I code with</h2>
+<h2 align="left">Sé programar en:</h2>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
