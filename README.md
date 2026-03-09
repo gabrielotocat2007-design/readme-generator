@@ -1,12 +1,10 @@
 <h1 align="left">Hey 👋 Soy Gabriel</h1>
 
-<p align="left">My name is ... and I'm a programmer, from IES Torre del rey</p>
+<p align="left">Y soy un programador, del IES Torre del rey</p>
 
-<h2 align="left">About me</h2>
+<h2 align="left">Sobre mi</h2>
 
-###
-
-<p align="left">✨ Creating bugs since 2025<br>📚 I'm currently learning java<br>🎯 Goals: I want to became a great programmer<br>🎲 Fun fact: I`m so bad</p>
+<p align="left">✨Creando bugs desde 2025<br>📚 Actualmente estoy aprendiendo java<br>🎯 Metas: ME gustaria ser un gran programador</p>
 
 <h2 align="left">I code with</h2>
 
